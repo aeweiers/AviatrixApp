@@ -1,4 +1,4 @@
-git init
+
 
 //  main.swift
 //  AviatrixApp
@@ -75,10 +75,12 @@ func fuelCheck(myPlane : Aviatrix, destination : String) -> Bool {
     return true
 }
 
-var plane = Aviatrix()
+var plane = Aviatrix(aviatrixAuthor: "Abbey")
 
-print("Welcome to the Aviatrix Flight System by _________")
+
+
 plane.start()
+print("Welcome to the Aviatrix Flight System by \(plane)")
 
 print("You're currently in _________")
 
@@ -111,3 +113,4 @@ while command != "q" {
 
 print(" ")
 print("Thanks for flying with _________ airline!")
+print("goodbye!")
