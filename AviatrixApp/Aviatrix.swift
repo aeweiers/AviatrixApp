@@ -31,7 +31,7 @@ class Aviatrix {
     }
     
     func flyTo(destination : String) {
-        
+      location = destination
     }
     
     func distanceTo(target : String) -> Int {
