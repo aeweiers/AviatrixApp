@@ -10,7 +10,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AviatrixApp/main.swift"
-            timestampString = "581809742.98085"
+            timestampString = "581827315.116936"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "3"
@@ -26,7 +26,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AviatrixApp/main.swift"
-            timestampString = "581809742.980945"
+            timestampString = "581827315.117074"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "82"
@@ -42,7 +42,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AviatrixApp/main.swift"
-            timestampString = "581809742.9810129"
+            timestampString = "581827315.117148"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "81"
@@ -58,11 +58,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AviatrixApp/main.swift"
-            timestampString = "581809742.9810719"
+            timestampString = "581827315.117211"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "83"
-            endingLineNumber = "83"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
             landmarkName = "unknown"
             landmarkType = "0">
          </BreakpointContent>
@@ -74,7 +74,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AviatrixApp/main.swift"
-            timestampString = "581809742.981239"
+            timestampString = "581827315.117269"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "78"
@@ -106,11 +106,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AviatrixApp/main.swift"
-            timestampString = "581809767.424404"
+            timestampString = "581827315.117372"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "115"
-            endingLineNumber = "115"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
             landmarkName = "unknown"
             landmarkType = "0">
          </BreakpointContent>
@@ -122,45 +122,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AviatrixApp/Aviatrix.swift"
-            timestampString = "581810822.472036"
+            timestampString = "581827315.117456"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "16"
             endingLineNumber = "16"
             landmarkName = "Aviatrix"
             landmarkType = "3">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AviatrixApp.Aviatrix.__allocating_init(aviatrixAuthor: Swift.String) -&gt; AviatrixApp.Aviatrix"
-                  moduleName = "AviatrixApp"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Abbey/Desktop/aviatrix_swift-master/AviatrixApp/Aviatrix.swift"
-                  timestampString = "581810822.691378"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "0"
-                  endingLineNumber = "0"
-                  offsetFromSymbolStart = "14">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AviatrixApp.Aviatrix.init(aviatrixAuthor: Swift.String) -&gt; AviatrixApp.Aviatrix"
-                  moduleName = "AviatrixApp"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Abbey/Desktop/aviatrix_swift-master/AviatrixApp/Aviatrix.swift"
-                  timestampString = "581810822.69471"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "38">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

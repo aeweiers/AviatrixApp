@@ -80,7 +80,7 @@ var plane = Aviatrix(aviatrixAuthor: "Abbey")
 
 
 plane.start()
-print("Welcome to the Aviatrix Flight System by \(plane)")
+print("Welcome to the Aviatrix Flight System by \(plane.author)")
 
 print("You're currently in _________")
 
